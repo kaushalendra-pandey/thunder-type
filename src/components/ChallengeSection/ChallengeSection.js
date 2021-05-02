@@ -4,7 +4,7 @@ import "./ChallengeSection.css";
 import MyContext from "../../Context/MyContext"
 import {SAMPLE_PARAGRAPHS} from "../../paragraphs/para"
 
-const URI = "http://metaphorpsum.com/paragraphs/1/9"
+// const URI = "http://metaphorpsum.com/paragraphs/1/9"
 
 const ChallengeSection = () => {
 
