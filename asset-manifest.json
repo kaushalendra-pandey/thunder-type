@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thunder-type/static/css/main.94670ddd.chunk.css",
+    "main.js": "/thunder-type/static/js/main.d979aa7b.chunk.js",
+    "main.js.map": "/thunder-type/static/js/main.d979aa7b.chunk.js.map",
+    "runtime-main.js": "/thunder-type/static/js/runtime-main.3046d894.js",
+    "runtime-main.js.map": "/thunder-type/static/js/runtime-main.3046d894.js.map",
+    "static/js/2.c391ce4d.chunk.js": "/thunder-type/static/js/2.c391ce4d.chunk.js",
+    "static/js/2.c391ce4d.chunk.js.map": "/thunder-type/static/js/2.c391ce4d.chunk.js.map",
+    "static/js/3.b12e7985.chunk.js": "/thunder-type/static/js/3.b12e7985.chunk.js",
+    "static/js/3.b12e7985.chunk.js.map": "/thunder-type/static/js/3.b12e7985.chunk.js.map",
+    "index.html": "/thunder-type/index.html",
+    "static/css/main.94670ddd.chunk.css.map": "/thunder-type/static/css/main.94670ddd.chunk.css.map",
+    "static/js/2.c391ce4d.chunk.js.LICENSE.txt": "/thunder-type/static/js/2.c391ce4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3046d894.js",
+    "static/js/2.c391ce4d.chunk.js",
+    "static/css/main.94670ddd.chunk.css",
+    "static/js/main.d979aa7b.chunk.js"
+  ]
+}
