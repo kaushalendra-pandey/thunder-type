@@ -1,7 +1,6 @@
 const appReducer = (state,action) => {
     switch(action.type){
         case "update":
-            console.log(action.payload);
             return{
                 ...state,
                 selectedParagraph:action.payload
