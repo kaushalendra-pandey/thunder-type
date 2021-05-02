@@ -63,7 +63,7 @@ const TypingChallenge = () => {
                 {
                     data.timeStarted ? 
                         <p className="timer">
-                        {`00:${data.timeRemaining>10 ? data.timeRemaining : `0${data.timeRemaining}`}`}
+                        {`00:${data.timeRemaining>=10 ? data.timeRemaining : `0${data.timeRemaining}`}`}
                         </p> :
                         <p className="timer-info fs-3">
                             Keep Calm and write..
