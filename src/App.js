@@ -5,9 +5,6 @@ import Banner from "./components/Banner/Banner"
 import Footer from './components/Footer/Footer';
 import ChallengeSection from "./components/ChallengeSection/ChallengeSection"
 import AppContext from "./Context/AppContext"
-import MyContext from "./Context/MyContext"
-
-
 
 function App() {
 
