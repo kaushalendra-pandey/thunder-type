@@ -10,7 +10,7 @@ const Footer = () => {
                 href="https://www.linkedin.com/in/kaushalendra-pandey-47a971192/"
                 rel="noreferrer"
             >
-                Contact Me
+                Contact Me at pandeysid713@gmail.com
             </a>
         </div>
     );
